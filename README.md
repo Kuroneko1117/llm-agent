@@ -11,35 +11,35 @@
 
 #### c_1 LLMエージェント作成ための基礎
 
-- 01_LLMkiso
+- 01_LLMkiso：エージェント作成のための基礎知識を学ぶ
 
-- 02_LangChain
+- 02_LangChain：LangChainの基礎を学ぶ
 
-- 03_Gradio
+- 03_Gradio：Gradioを用いたGUI作成を試してみる
 
 
   
 
 #### c_2 エージェント作成
 
-- 4_LLM 
+- 4_LLM：実際にLLMに知識を与えてみる
 
-- 5_LLMtool
+- 5_LLMtool：LLMにツールを与えて色々試す
 
-- 6_agent
+- 6_agent：実際に複雑な推論をするエージェントを作成する
 
-- 7_memory
+- 7_memory：実際に記憶能力を持ったエージェントを作成する
 
-- 8_persona
+- 8_persona：実際にペルソナのあるエージェントを作成する
 
 
   
 
 #### c_3 マルチエージェント作成
 
-- 09_multi_agent_system
+- 09_multi_agent_system：マルチエージェントシステムの構築をしてみる
 
-- 10_multi_agent_system_application
+- 10_multi_agent_system_application：マルチエージェントを活用したコードを書いて試してみる
 
   
 
